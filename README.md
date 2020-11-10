@@ -30,4 +30,4 @@ REFERENCES
 
 https://developer.twitter.com/en/docs/twitter-api
 https://openweathermap.org/current
-2018. Orwell Bridge Closure Protocol Summary. 1st ed. [ebook] Guildford: Highways England Company Limited. Available at: <https://highwaysengland.co.uk/travel-updates/the-orwell-bridge/> [Accessed 10 November 2020].
+https://highwaysengland.co.uk/travel-updates/the-orwell-bridge/
