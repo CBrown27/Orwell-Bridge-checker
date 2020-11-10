@@ -14,6 +14,8 @@ This script requires the following libraries (they should be automatically insta
 - requests (https://pypi.org/project/requests/)
 - operator (https://docs.python.org/3/library/operator.html)
 
+You will need a valid developer account to gain an access key for both the Twitter API and OpenWeatherMap API. However, for the sake of this project, I have included mine
+
 HOW TO USE
 -----------
 
