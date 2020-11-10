@@ -28,6 +28,6 @@ I also plan to host this script on a website, with a visualised traffic light sy
 REFERENCES
 -----------
 
-https://developer.twitter.com/en/docs/twitter-api
-https://openweathermap.org/current
-https://highwaysengland.co.uk/travel-updates/the-orwell-bridge/
+- https://developer.twitter.com/en/docs/twitter-api
+- https://openweathermap.org/current
+- https://highwaysengland.co.uk/travel-updates/the-orwell-bridge/
