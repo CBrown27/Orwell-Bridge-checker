@@ -17,7 +17,7 @@ This module requires the following modules (they should be automatically install
 HOW TO USE
 -----------
 
-This is very simple to use, simply press the run button to return the results for the Orwell Bridge. If you wish to change the search critera for a differnt location, change the search_params for the TwitterAPI, and change the lat and long values in the OpenWeatherMap url.
+This is very simple to use, simply press the run button to return the results for the Orwell Bridge. If you wish to change the search critera for a different location, change the search_params for the TwitterAPI, and change the lat and long values in the OpenWeatherMap url.
 
 FURTHER IMPROVEMENTS
 -----------
