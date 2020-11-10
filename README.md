@@ -8,7 +8,7 @@ This is a python script that accesses the Twitter API and the OpenWeatherMap API
 REQUIREMENTS
 ------------
 
-This module requires the following modules (they should be installed alongside python 3.8.0);
+This module requires the following modules (they should be automatically installed alongside python 3.8.0);
 
 - base64 (https://github.com/python/cpython/blob/3.9/Lib/base64.py)
 - requests (https://pypi.org/project/requests/)
